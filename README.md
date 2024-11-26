@@ -1,3 +1,9 @@
+https://chat.mistral.ai/chat
+
+
+
+
+
 -- Таблица типов климатической техники
 CREATE TABLE ClimateTechTypes (
     TypeID INT PRIMARY KEY IDENTITY(1,1),
